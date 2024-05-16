@@ -134,8 +134,8 @@ endmodule
 ## Output Waveform
 4 bit multiplier:
 ![image](https://github.com/9959066971/VLSI-LAB-EXP-3/assets/167750672/114e06a8-d0d2-4698-bfdb-e32f48f9cf79)
+## Result**
 
-**Result**
 Thus,the simulation and synthesis of multipliers by using vivado has been successfully excecuted and verified.
 
 
